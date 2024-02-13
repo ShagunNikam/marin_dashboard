@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+@import './assets/scss/variable';
+@import './assets/scss/master.scss';
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background: $bg;
+    font-family: $baseFont;
+    font-size: $font_16;
+    padding: 0;
+    margin: 0;
+    color: $black;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}

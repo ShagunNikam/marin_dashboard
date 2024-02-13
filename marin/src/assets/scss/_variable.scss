@@ -1,0 +1,32 @@
+
+// font family
+$baseFont : 'Montserat Regular';
+$boldFont : 'Montserat Regular SemiBold';
+
+// font-sizes
+$font_16 : 1rem; // base font
+$font_12 : 0.75rem; // 12px 
+$font_14 : 0.875; // 14px 
+$font_20 : 1.25rem; // 20px;
+$font_30 : 1.875rem; // 30px
+$font_48 : 	3rem; // 48px
+
+
+// theme color
+$primary_color : #00285a;
+$secondary_color : #006ade;
+
+$right_gradient: linear-gradient(to right, #00285a, #003879, #004899, #0059bb, #006ade);
+$left_gradient: linear-gradient(to left, #00285a, #003879, #004899, #0059bb, #006ade);
+
+// grey shades
+$light_grey : #F0F0F6;
+$mild_grey : #A0A0A0;
+$dark_grey : #333333;
+
+// $bg: linear-gradient(to right, #eef3f9, #e1eefa, #d1eafa, #c0e6fa, #ade3f7);
+$bg: #cedfeb;
+
+
+$white : #FFFFFF;
+$black : #000000;

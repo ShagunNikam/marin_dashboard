@@ -1,0 +1,26 @@
+@import '../../../../assets/scss/variable';
+
+.footer{
+    padding: 10px;
+}
+.footer_wrapper {
+    justify-content: space-between;
+    align-items: center;
+
+    .link_wrapper {
+        li {
+            margin: 10px;
+            a {
+                font-size: $font-12;
+                color: $secondary_color;
+;
+            }
+        }
+    }
+
+    .info{
+        p {
+            font-size: $font-12;
+        }
+    }
+}

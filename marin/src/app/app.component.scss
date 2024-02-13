@@ -1,0 +1,12 @@
+@import '../assets/scss/variable';
+
+.main_container {
+    display: flex;
+    .left_container {
+        width: 25%;
+        background: $white;
+    }
+    .right_container {
+        width: 75%;
+    }
+}
